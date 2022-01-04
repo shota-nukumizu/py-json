@@ -1,0 +1,7 @@
+{
+    "pokemon": {
+        "name": "Mewtwo",
+        "level": 50,
+        "stock": false
+    }
+}
